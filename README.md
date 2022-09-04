@@ -1,6 +1,8 @@
 # StackEdit Serverless
 > A serverless version of [StackEdit](https://github.com/benweet/stackedit)
 
+Forked from https://github.com/privapps/stackedit-serverless.
+
 https://privapps.github.io/stackedit-serverless
 
 ## Why
@@ -9,7 +11,7 @@ The last update for [stackedit](https://github.com/benweet/stackedit) was March 
 ## What
 This is a fork of StackEdit v5.14.10 . Since I do not have any funding, this project only keeps the UI part of it and is stripped of the server-side. And due to that, the integration with Google Drive, Github, Gitlab, etc. was not functioning anymore, so I hide those from the menu.
 
-## Benefit 
+## Benefit
 * Use it offline 100%
 * Can backup single notes or the entire workspace to a file, encrypt and save to any cloud as you like (Use your encryption software method as you wish). This maximizes privacy and security.
 * Minimum cost since they are all static pages
